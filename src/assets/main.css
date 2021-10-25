@@ -152,6 +152,10 @@
     color: #ff5400;
     font-size: 30px;
   }
+  article button:hover {
+    background-color: #ff5400;
+    color: white;
+  }
   .small-article {
     margin-top: 80px;
   }
